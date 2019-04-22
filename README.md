@@ -1,4 +1,9 @@
 # MCPSTI2016
+
+Kelompok :
+1.	Made Rai Indra Perkasa (1615061022)
+2.	M. Akbar Danyus A. (1655061002)
+
 Aplikasi A-List (Alarm List)
 
 A-List merupakan sebuah  nama aplikasi dari singkatan alarm list yang dimana aplikasi ini akan berjalan pada sebuah sistem operasi android. Aplikasi A-List berfungsi sebagai aplikasi pengingat serta penjadwal suatu kegiatan yang sebelumnya telah diatur oleh pengguna. Saat kegiatan yang telah di list akan dimulai, maka aplikasi A-List akan memberikan pemberitahuan mengenai kegiatan yang harus dilakukan.
